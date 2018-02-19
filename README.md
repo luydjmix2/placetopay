@@ -1,4 +1,4 @@
-# placetopay
+# PlacetoPay
 
 Prueba de desarrollo place to pay, en la siguiente genero simulación de trasferencia de información y paso a plataforma de pagos
 
