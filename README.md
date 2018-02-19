@@ -1,10 +1,10 @@
 # placetopay
 
-prueba de desarrolo place to pay, en la siguente gero simulacion de trasferencia de informacion y paso a plataforma de pagos
+Prueba de desarrollo place to pay, en la siguiente genero simulación de trasferencia de información y paso a plataforma de pagos
 
-la prueba no esta completa ya que las consultas furon respondidas muy tarde pero lo que trate fe de simularlo lo mas cercano posible, al proceso real el codigo es total mente mio y en el se usan tecnologias como lo es php html css boostrap javascript jquery mysql json ajax  la creacion de uan cookie real mendiente un archivo xml el cual se encuntra en el directorio core y podra visualizar la creacion y consulta del mismo archio en un proceso ajax, entre ostras tecnologias, en el ejemplo podra ver el funcionamiento logico y la arquitectura de archivos que menejo demostrando una implementacion limpa del modelo mvc y sus jerarquias de archivos como la estructura de un arrivo tipo ruting el cual se egecuta en el index y es un unicoarchivo representado en la url.
+la prueba no está completa ya que las consultas fueron respondidas muy tarde pero lo que trate fe de simularlo lo más cercano posible, al proceso real el código es total mente mío y en él se usan tecnologías como lo es php html css boostrap javascript jquery mysql json ajax  la creación de una cookie real pendiente un archivo XML el cual se encuentra en el directorio core y podrá visualizar la creación y consulta del mismo archivo en un proceso ajax, entre otras tecnologías, en el ejemplo podrá ver el funcionamiento lógico y la arquitectura de archivos que manejo demostrando una implementación limpia del modelo MVC y sus jerarquías de archivos como la estructura de un archivo tipo ruting el cual se ejecuta en el índex y es un único archivo representado en la Url.
 
-la demostracion del miso la puede encontrar en la web
+La demostración del miso la puede encontrar en la web
 http://placetopay.lesframework.com/
 
-el usuario es car y el pas es 123
+El usuario es car y el pas es 123
