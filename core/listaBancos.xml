@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listaBancos>
+  <dataPrevia>
+    <bancos>
+      <listaId>01</listaId>
+      <listaBanco>Bancolombia</listaBanco>
+    </bancos>
+    <bancos>
+      <listaId>02</listaId>
+      <listaBanco>Banco de Bogota</listaBanco>
+    </bancos>
+    <bancos>
+      <listaId>03</listaId>
+      <listaBanco>BBVA</listaBanco>
+    </bancos>
+    <bancos>
+      <listaId>04</listaId>
+      <listaBanco>CityBanck</listaBanco>
+    </bancos>
+    <tiempo>1519144196</tiempo>
+  </dataPrevia>
+</listaBancos>
